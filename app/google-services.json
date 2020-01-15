@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901511046686",
+    "firebase_url": "https://joelfirebasemessagingapp.firebaseio.com",
+    "project_id": "joelfirebasemessagingapp",
+    "storage_bucket": "joelfirebasemessagingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901511046686:android:6b65c9c7200b16a12b300f",
+        "android_client_info": {
+          "package_name": "com.example.firebasemessagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901511046686-nbvvqe36tfvqed6h4nd9mcnj91ik1vum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasemessagingapp",
+            "certificate_hash": "98ffb19eae7af78a9fd628fe904e456b72698417"
+          }
+        },
+        {
+          "client_id": "901511046686-2bahn6d3cji1egassvuks3umkns0i309.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANbJ-l32uvDKHikVuR4AhGLEO0J5x5OE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901511046686-2bahn6d3cji1egassvuks3umkns0i309.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
